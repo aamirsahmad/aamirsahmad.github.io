@@ -1,0 +1,4 @@
+# Hugo files
+.hugo_build.lock
+/assets/css/compiled/main.css
+/public
