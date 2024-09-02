@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://aamir.cognoptiq.com/sitemap.xml
+Sitemap: https://aamirsahmad.github.io/sitemap.xml
