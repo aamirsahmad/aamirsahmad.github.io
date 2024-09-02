@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aamir.cognoptiq.com/sitemap.xml
