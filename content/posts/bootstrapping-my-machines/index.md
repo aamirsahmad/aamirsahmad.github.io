@@ -1,6 +1,6 @@
 ---
 title: "Bootstrapping my machines"
-date: 2024-01-23
+date: 2024-01-20
 description: "How I use various tools to automate the process of bootstrapping my machines."
 summary: "How I use various tools to automate the process of bootstrapping my machines."
 tags: ["tech", "tools"]
